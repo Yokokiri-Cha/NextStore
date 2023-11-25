@@ -1,0 +1,2 @@
+[(Skip this section)Ref:name,description,ver,category,IsATVapp?,Isavailable?,minsdk,pkgname,virustotal link,updated date]
+Coffee,最軽量ブラウザーアプリです!,10.0,browser,false,true,21,jp.yokocha.yokoha.coffee,https://--,11/25
